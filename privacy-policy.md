@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This privacy policy governs your use of the commercial software application Game CallsK ("Application") for iOS that was created by Over The Top Studio. This SERVICE is provided and is intended for use as is.
+This privacy policy governs your use of the commercial software application Game Calls ("Application") for iOS that was created by Over The Top Studio. This SERVICE is provided and is intended for use as is.
 
 At CrocBLOCK, one of our main priorities is the privacy of our users. This Privacy Policy outlines any information that is collected and how it is used. Game CallsK does not sell rent or monetize any of your personal data in any way - ever.
 
